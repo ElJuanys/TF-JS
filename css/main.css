@@ -1,0 +1,6 @@
+.secciones{
+    display: flex;
+}
+.categorias{
+    background-color: red;
+}
