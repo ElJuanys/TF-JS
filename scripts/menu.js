@@ -49,7 +49,7 @@ function mostrarPlatos(platos) {
         `<div class="container">
                 <div class="row">
                     <article class="card">
-                        <img src="../assets/${plato.id}.webp" class="card-img-top" alt="Ilustracion de ${plato.nombre}">
+                        <img src="./assets/${plato.id}.webp" class="card-img-top" alt="Ilustracion de ${plato.nombre}">
                         <div class="card-body">
                             <h5 class="card-title">${plato.nombre}</h5>
                             <p class="card-text">${plato.descripcion}<br>
